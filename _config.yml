@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://LibinAbdi.github.io/PUBH3201-FinalProject"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -28,13 +28,12 @@ description: This site aims to organize and display the studied I am conducted f
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
+  Introduction:
+  Data Found:
+  Results:
+  Discussion:
+  Conclusion & Further Research:
+  Resources Cited/ Citations:
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
@@ -42,8 +41,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Libin Abdi
+  email: "libin_abdi@gwu.edu"
   github: yourgithub
 #  stackoverflow: "users/3943160/daattali"
  
